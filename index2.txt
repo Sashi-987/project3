@@ -1,1 +1,2 @@
 This is index 2 files.
+Can you add property for the promise function?
